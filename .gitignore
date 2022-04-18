@@ -1,4 +1,4 @@
-/src/includes/modules/payment/coinbase/*
-!/src/includes/modules/payment/coinbase/const.php
+/src/includes/modules/payment/privacygate/*
+!/src/includes/modules/payment/privacygate/const.php
 /.idea/
 /composer.lock
